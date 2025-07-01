@@ -4,7 +4,7 @@
 ![画像の説明](assets/images/hydrotank_illust_en.png)
 このマニュアルを使えば、**プログラミング経験がない理系研究者でも1時間で**社会連携講座の活動報告サイトが作れます。
 [📌](assets/dummy/MEIT説明_布川チーム長向け_2025-06-20.pdf)
-
+[📌](https://github.com/user-attachments/files/20996492/English_.pptx)
 ✅ **完全無料** - 維持費用なし  
 ✅ **議事録投稿** - 会議後すぐに共有  
 ✅ **報告書配布** - PDFを簡単アップロード  
