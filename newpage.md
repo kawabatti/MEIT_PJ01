@@ -1,4 +1,4 @@
-#新しく追加するページ
+# 新しく追加するページ
 
 <details class="accordion">
 <summary>新規ページの追加の仕方を確認する</summary>
